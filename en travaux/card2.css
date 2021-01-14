@@ -1,0 +1,7 @@
+.card {
+    display: flex;
+    background-image: url(../img/Breaking_Bad.jpg);
+    background-size: cover;
+    width: 250px;
+    height: 320px;
+}
